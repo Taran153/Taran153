@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Web-dev](https://github.com/Taran153/Web-dev)
 - 🌱 I’m learning Python and web development
-- 👯 I’m looking to collaborate on open source projects
+- 👨‍💻 I’m looking to collaborate on open source projects
 
 ## GitHub Stats
 ![Taran153's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taran153&show_icons=true)
