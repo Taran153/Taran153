@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello, I'm Taran153 👋
+# Hello, I'm Taran 👋
 
 - 🔭 I’m currently working on [Web-dev](https://github.com/Taran153/Web-dev)
 - 🌱 I’m learning Python and web development
