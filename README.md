@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 ![Taran153's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taran153&show_icons=true)
 
 ## Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/taranreddy)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taranreddy)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/PQ7C9RE5RB
 )
