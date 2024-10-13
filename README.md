@@ -25,7 +25,7 @@ I'm a passionate developer diving deep into web development and Python! I love w
 
 ## 🚀 Latest Projects
 - [Web-dev](https://github.com/Taran153/Web-dev): A project to explore web development with modern technologies.
-- [Algorithm Challenges](https://github.com/Taran153/Algorithm-Challenges): A repository of algorithm and data structure problems I've solved.
+- [Algorithm Challenges](https://github.com/Taran153/DSA): A repository of algorithm and data structure problems I've solved.
   
 ---
 
