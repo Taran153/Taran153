@@ -3,7 +3,7 @@
 I'm a passionate developer diving deep into web development and Python! I love working on new ideas and contributing to open-source projects.
 
 - 🔭 I’m currently working on [Web-dev](https://github.com/Taran153/Web-dev)
-- 🌱 Currently mastering **Python**, **Web Development**, and **Next.js**
+- 🌱 Currently mastering **Python**, **Web Development**.
 - 🤝 I’m looking to collaborate on exciting **open-source projects**
 - 💬 Ask me about **web development** or **Python** 
 - ⚡ Fun fact: I love solving algorithm challenges in my free time!
